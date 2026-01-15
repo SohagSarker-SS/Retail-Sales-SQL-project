@@ -1,5 +1,5 @@
 # Retail Sales Analysis using SQL
-The analysis covers sales performance, customer behavior, product trends, and time-based insights using structured queries.
+
 ## Project Overview
 This project focuses on analyzing retail sales data using SQL to extract meaningful business insights.
 The goal is to demonstrate strong SQL querying skills, data cleaning, and analytical thinking by answering real-world business questions commonly faced by retail companies.
